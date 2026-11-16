@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Georgia, serif;
+    background-color: #f5f3ee;
+    color: #222;
+    padding: 40px;
+}
+
+nav{
+    padding-bottom: 40px;
+}
+
+nav a{
+    text-decoration: none;
+    color: black;
+}
+
+nav a:hover{
+    color: goldenrod;
+    border: none;
+    width: 8%;
+    border: 3px solid goldenrod;
+}
+
+.container {
+    max-width: 1000px;
+    margin: auto;
+}
+
+h1 {
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 30px;
+    margin: 20px 0;
+}
+
+h3 {
+    font-size: 22px;
+    margin-bottom: 12px;
+}
+
+p {
+    font-size: 17px;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+
+.project {
+    background-color: white;
+    padding: 25px;
+    margin: 25px 0;
+    border-radius: 12px;
+    border: 1px solid #ddd;
+}
+
+.project h2 {
+    color: #333;
+}
+
+.project h3 {
+    margin-top: 20px;
+}
+
+.project span {
+    color: #888;
+    font-size: 14px;
+}
+
+.journey {
+    margin-top: 40px;
+    padding: 25px;
+    background-color: #eae6dc;
+    border-radius: 12px;
+}
+
+.journey h2 {
+    margin-bottom: 25px;
+}
+
+.journey h3 {
+    margin-top: 15px;
+}
