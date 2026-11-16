@@ -2,4 +2,4 @@
 
 Every Thing You Need To Know About Me
 
-Live - https://github.com/shekharsuman4818-cpu/My-Portfolio.git
+Live -  https://shekharsuman4818-cpu.github.io/My-Portfolio/
